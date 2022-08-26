@@ -1,0 +1,27 @@
+.card {
+  width: 30%;
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  padding: 10px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 15);
+  border-radius: 10px;
+  align-content: center;
+}
+.container {
+  align-content: center;
+}
+.cardHeader {
+  width: 90%;
+  background-color: cornflowerblue;
+  margin: 0 auto;
+  height: 50px;
+  align-items: center;
+  justify-content: center;
+  align-content: center;
+  border-radius: 50px;
+}
+.cardHeader p {
+  text-align: center;
+  justify-content: center;
+}
